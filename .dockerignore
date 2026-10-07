@@ -1,0 +1,14 @@
+.git
+.gitignore
+.venv
+venv
+__pycache__
+*.py[cod]
+*.ipynb
+.pytest_cache
+.mypy_cache
+.ruff_cache
+.env
+.env.*
+data/*
+!data/train.csv
